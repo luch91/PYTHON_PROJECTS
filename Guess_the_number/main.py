@@ -20,7 +20,8 @@ def set_difficulty():
     if level == "easy" :
         return EASY_LEVEL_TURNS
     else:
-        return HARD_LEVEL_TURNS    
+        return HARD_LEVEL_TURNS
+    
 
 def game():
     print(logo)

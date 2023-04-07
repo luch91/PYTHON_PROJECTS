@@ -13,11 +13,5 @@ greet("Alice")
 print(result)
 """
 
-def foods(diet = ["fruit", "veges", "food"]):
-    for i in diet:
-        return fruits + veges + food
 
-fruits =["mango", "ornage", "banana"]
-veges = ["Okra", "Lettuce", "Onion"]
-food = ["rice", "beans", "jollof"]
-foods(diet)
+
